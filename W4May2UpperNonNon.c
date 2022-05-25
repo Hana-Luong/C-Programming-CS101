@@ -1,7 +1,7 @@
 // Converting a string to uppercase using a 
 // non-constant pointer to non-constant data.
 #include <stdio.h>
-#include <ctype.h>
+#include <ctype.h>          //testing and mapping characters
 
 void convertToUppercase(char *sPtr); // prototype
 
